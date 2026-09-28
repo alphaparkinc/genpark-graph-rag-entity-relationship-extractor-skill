@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-graph-rag-entity-relationship-extractor-skill"
+version = "1.0.0"
+description = "GraphRAG entity co-occurrence and relational knowledge subgraph extraction engine for agentic RAG"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
