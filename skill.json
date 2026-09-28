@@ -1,0 +1,20 @@
+{
+  "name": "genpark-graph-rag-entity-relationship-extractor-skill",
+  "version": "1.0.0",
+  "description": "GraphRAG entity co-occurrence and relational knowledge subgraph extraction engine for agentic RAG",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "graph-rag",
+    "agentic-rag",
+    "knowledge-graph",
+    "subgraph-retrieval",
+    "entity-extraction",
+    "python-standard-library",
+    "agent-skills",
+    "rag-optimization",
+    "information-retrieval",
+    "context-engineering"
+  ]
+}
